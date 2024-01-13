@@ -1,2 +1,2 @@
 # warehouse
-A Spring Boot JPA project to Add Artciles and product from JSON file and then crud operation
+A Micronut program with in memoery database h2  to Add Artciles and product from JSON file and then crud operation
